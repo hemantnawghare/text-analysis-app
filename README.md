@@ -23,7 +23,7 @@ To run the application locally, follow these steps:
    in terminal
    
    git clone https://github.com/hemantnawghare/text-analysis-app.git
-   cd text-analysis-app
-   npm install
-   npm start
+   -cd text-analysis-app
+   -npm install
+   -npm start
 
